@@ -1,1 +1,2 @@
-Archivo de git para editarlo y aprender cule poco
+Archivo de git para editarlo y aprender un montón
+Vamos a añadir una nueva línea
